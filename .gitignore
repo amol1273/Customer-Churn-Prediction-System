@@ -1,0 +1,13 @@
+venv/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.xlsx
+*.xls
+data/raw/
+model/best_model.pkl
+*.pbix
